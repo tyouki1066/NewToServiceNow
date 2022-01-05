@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Statistics" section_id="0e4fe92a07bc01104710fe4f7c1ed0bf" sys_domain="global" table="x_746332_needitx_needitx" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:11</sys_created_on>
+            <sys_id>564f2d2a07bc01104710fe4f7c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_746332_needitx_needitx" sys_domain="global" view="Default view">0e4fe92a07bc01104710fe4f7c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:11</sys_created_on>
+            <sys_id>d64f2d2a07bc01104710fe4f7c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_746332_needitx_needitx" sys_domain="global" view="Default view">0e4fe92a07bc01104710fe4f7c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:11</sys_created_on>
+            <sys_id>5a4f2d2a07bc01104710fe4f7c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_746332_needitx_needitx" sys_domain="global" view="Default view">0e4fe92a07bc01104710fe4f7c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:11</sys_created_on>
+            <sys_id>da4f2d2a07bc01104710fe4f7c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_746332_needitx_needitx" sys_domain="global" view="Default view">0e4fe92a07bc01104710fe4f7c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:11</sys_created_on>
+            <sys_id>5e4f2d2a07bc01104710fe4f7c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_746332_needitx_needitx" sys_domain="global" view="Default view">0e4fe92a07bc01104710fe4f7c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:11</sys_created_on>
+            <sys_id>de4f2d2a07bc01104710fe4f7c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_746332_needitx_needitx" sys_domain="global" view="Default view">0e4fe92a07bc01104710fe4f7c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:11</sys_created_on>
+            <sys_id>524f2d2a07bc01104710fe4f7c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_746332_needitx_needitx" sys_domain="global" view="Default view">0e4fe92a07bc01104710fe4f7c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:11</sys_created_on>
+            <sys_id>d24f2d2a07bc01104710fe4f7c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_746332_needitx_needitx" sys_domain="global" view="Default view">0e4fe92a07bc01104710fe4f7c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Statistics</caption>
+            <header>false</header>
+            <name>x_746332_needitx_needitx</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 05:01:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e4fe92a07bc01104710fe4f7c1ed0bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_746332_needitx_needitx</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedItX" source="x_746332_needitx">8a7d496a073c01104710fe4f7c1ed07c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedItX">8a7d496a073c01104710fe4f7c1ed07c</sys_scope>
+            <sys_update_name>sys_ui_section_0e4fe92a07bc01104710fe4f7c1ed0bf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 05:01:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

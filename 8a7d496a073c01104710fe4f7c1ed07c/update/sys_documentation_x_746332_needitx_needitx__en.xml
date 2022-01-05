@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="NeedItX" language="en" table="x_746332_needitx_needitx">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>NeedItX</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <plural>NeedItXs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 02:34:04</sys_created_on>
+            <sys_id>5b9dc9ee073c01104710fe4f7c1ed0e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NeedItX</sys_name>
+            <sys_package display_value="NeedItX" source="x_746332_needitx">8a7d496a073c01104710fe4f7c1ed07c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedItX">8a7d496a073c01104710fe4f7c1ed07c</sys_scope>
+            <sys_update_name>sys_documentation_x_746332_needitx_needitx__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 02:34:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

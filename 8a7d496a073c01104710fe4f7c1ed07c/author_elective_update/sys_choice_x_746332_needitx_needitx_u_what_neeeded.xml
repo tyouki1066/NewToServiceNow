@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_what_neeeded" table="x_746332_needitx_needitx" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_what_neeeded</element>
+            <name>x_746332_needitx_needitx</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_id>f9ace9a607bc01104710fe4f7c1ed0b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_what_neeeded</sys_name>
+            <sys_package display_value="NeedItX" source="x_746332_needitx">8a7d496a073c01104710fe4f7c1ed07c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedItX">8a7d496a073c01104710fe4f7c1ed07c</sys_scope>
+            <sys_update_name>sys_choice_x_746332_needitx_needitx_u_what_neeeded</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_neeeded</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources1</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1ace9a607bc01104710fe4f7c1ed0b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+            <value>hr1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_neeeded</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources2</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75ace9a607bc01104710fe4f7c1ed0bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+            <value>hr2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_neeeded</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities1</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dace9a607bc01104710fe4f7c1ed0be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+            <value>facilities1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_neeeded</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities2</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1ace9a607bc01104710fe4f7c1ed0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+            <value>facilities2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_neeeded</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal1</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9ace9a607bc01104710fe4f7c1ed0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+            <value>legal1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_neeeded</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal2</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71ace9a607bc01104710fe4f7c1ed0c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+            <value>legal2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_neeeded</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Your Department Choise1</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39ace9a607bc01104710fe4f7c1ed0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+            <value>your_choise1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_neeeded</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Your Department choise2</label>
+            <language>en</language>
+            <name>x_746332_needitx_needitx</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdace9a607bc01104710fe4f7c1ed0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
+            <value>your_choise2</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
