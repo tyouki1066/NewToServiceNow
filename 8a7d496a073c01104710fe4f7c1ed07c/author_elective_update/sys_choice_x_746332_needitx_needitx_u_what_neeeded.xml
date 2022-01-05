@@ -141,40 +141,20 @@
             <element>u_what_neeeded</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Your Department Choise1</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_746332_needitx_needitx</name>
             <sequence>6</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
+            <sys_created_on>2022-01-05 08:11:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>39ace9a607bc01104710fe4f7c1ed0c8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>bfaa5eea073041104710fe4f7c1ed0ba</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
-            <value>your_choise1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_what_neeeded</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Your Department choise2</label>
-            <language>en</language>
-            <name>x_746332_needitx_needitx</name>
-            <sequence>7</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-05 04:49:41</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>fdace9a607bc01104710fe4f7c1ed0ca</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-05 04:49:41</sys_updated_on>
-            <value>your_choise2</value>
+            <sys_updated_on>2022-01-05 08:11:17</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
